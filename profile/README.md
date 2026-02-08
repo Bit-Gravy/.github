@@ -29,7 +29,7 @@ An interactive deep dive into how Microsoft Power Automate handles complex appro
 
 🔗 [View Project](https://github.com/Bit-Gravy/MSApprovalsMastery)
 
-### [NastyNomenclature](https://github.com/Bit-Gravy/NastyNomenclature)
+### [NastyNomenclature](https://github.com/Bit-Gravy/NastyNomenclature) NSFW
 **The Naming Convention Explorer**  
 An interactive web application that demonstrates and explains various programming naming conventions (camelCase, snake_case, PascalCase, and more). Perfect for developers learning best practices.
 
